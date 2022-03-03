@@ -1,3 +1,3 @@
 <?php
-print "Winter is comming \n";
+print "Winter is comming!\n";
 ?>
